@@ -1,4 +1,5 @@
-test=d2  
-anthor one   commit   -- tony  comit 2 
+test=d2
+first one commit   and merge anthor one   commit   -- tony  comit 2 
+
 
 
