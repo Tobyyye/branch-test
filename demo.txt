@@ -1,3 +1,6 @@
 master
 
-f1 create  f1 fix tony  fix  and tony merge   jack add one jack add two
+
+f1 create  f1 fix tony  fix  and tony merge   jack add one jack add two  and  jack merge once
+
+
