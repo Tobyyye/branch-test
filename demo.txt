@@ -1,10 +1,7 @@
 master
 
 
-<<<<<<< HEAD
-f1 create  f1 fix tony  fix  and tony merge   jack add  tony add two  one 
-=======
+
 f1 create  f1 fix tony  fix  and tony merge   jack add one jack add two  and  jack merge once
-jack add 2
->>>>>>> a02042e... f1 fix
+
 
